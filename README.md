@@ -92,11 +92,12 @@ SQL> show pdbs;
 
  ##### Screenshot 2
 
- ###### on this screenshot i just justyng that connection was succesfull established
+ ###### on this screenshot i just justfying that connection was succesfull established
  
 ![pluggable suceess connection](https://github.com/user-attachments/assets/9705d388-9776-4ca4-b8cf-ca1be97eb05a)
  ##### Screenshot3
- ###### connection is connected succesfull
+ ###### connection is connected succesfull!!
+ ![connected pluggable](https://github.com/user-attachments/assets/0d7e1515-d0b2-4289-8791-4ecff99732a4)
  
 
 
