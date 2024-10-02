@@ -81,9 +81,16 @@ SQL> show pdbs;
 ```
 
 ### Task 3: 
+
 #### I configured Oracle Enterprise Manager, completed the setup, and captured a screenshot of the dashboard reflecting the successful completion of the previous tasks.
+
 ##### Screenshot 1
-###### Inserting values that estabish connection 
+
+###### Inserting values that to  estabish connection of pllugable Database plsql_class2024db
+on name of connection I inserted random name calle pluggable_Database_plsql , on use name i inserted user name i created  
+and password identifiying his privilleges and on service name i inserted name of that database PLSQL_CLASS2024DB
+
+![pluggable](https://github.com/user-attachments/assets/7e478cfc-a7b3-451e-98be-dcfc0238efe5)
 
 
 
