@@ -86,11 +86,18 @@ SQL> show pdbs;
 
 ##### Screenshot 1
 
-###### Inserting values that to  estabish connection of pllugable Database plsql_class2024db
-on name of connection I inserted random name calle pluggable_Database_plsql , on use name i inserted user name i created  
-and password identifiying his privilleges and on service name i inserted name of that database PLSQL_CLASS2024DB
+###### Inserting values that to  estabish connection of pllugable Database plsql_class2024dbon name of connection I inserted random name calle pluggable_Database_plsql , on use name i inserted user name i created and password identifiying his privilleges and on service name i inserted name of that database PLSQL_CLASS2024DB
 
 ![pluggable](https://github.com/user-attachments/assets/7e478cfc-a7b3-451e-98be-dcfc0238efe5)
+
+ ##### Screenshot 2
+
+ ###### on this screenshot i just justyng that connection was succesfull established
+ 
+![pluggable suceess connection](https://github.com/user-attachments/assets/9705d388-9776-4ca4-b8cf-ca1be97eb05a)
+ ##### Screenshot3
+ ###### connection is connected succesfull
+ 
 
 
 
