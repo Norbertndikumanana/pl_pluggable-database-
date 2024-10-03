@@ -98,6 +98,10 @@ SQL> show pdbs;
  ##### Screenshot3
  ###### connection is connected succesfull!!
  ![connected pluggable](https://github.com/user-attachments/assets/0d7e1515-d0b2-4289-8791-4ecff99732a4)
+ ####### Oracle enteprise Manager
+ ![sspl8778](https://github.com/user-attachments/assets/5d9caba1-4727-42b8-a9cb-593125c55e2e)
+![datbase basic](https://github.com/user-attachments/assets/04e8ec84-c7bf-456a-9a7b-2885d14ff9ca)
+
  
 
 
